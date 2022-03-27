@@ -1,0 +1,11 @@
+Model Information:
+* title:	Trophy
+* source:	https://sketchfab.com/3d-models/trophy-b2c21f7c7c0c46f28b98967dd55a8865
+* author:	GimmeTheGucci (https://sketchfab.com/GimmeTheGucci)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Trophy" (https://sketchfab.com/3d-models/trophy-b2c21f7c7c0c46f28b98967dd55a8865) by GimmeTheGucci (https://sketchfab.com/GimmeTheGucci) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
